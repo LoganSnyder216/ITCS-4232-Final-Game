@@ -8,9 +8,9 @@ Collect the six orbs needed to enter the final dungeon and finish the game.
 
 CONTROLS
 
-Move with WASD
-Cast spells with arrow keys
-Change current spell with E
+Move with WASD.
+Cast spells with arrow keys.
+Change current spell with E.
 
 TIPS
 
