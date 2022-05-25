@@ -1,4 +1,4 @@
-# 4232-Project
+# ITCS-4232-Final-Game
 Final Game Project for ITCS 4232
 
 Made with GameMaker Studio 2
