@@ -1,6 +1,8 @@
 # 4232-Project
 Final Game Project for ITCS 4232
 
+Made with GameMaker Studio 2
+
 OBJECTIVE
 
 Find and defeat the six bosses located in dungeons throughout the overworld.
